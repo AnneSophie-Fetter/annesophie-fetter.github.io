@@ -10,7 +10,13 @@ But this begs the question: How big should the data be to qualify as Big Data™
 
 Counter-intuitively, Big Data is not so much about data, than it is about the technologies used to store and process it. The data becomes "big" when you are pushed to change __not only__ the system, but also the way your system scales with data.
 
-![Vertical vs Horizontal Scaling](/_posts/assets/vertical-horizontal-scaling.png)
+   
+   
+  
+![Vertical vs Horizontal Scaling](/assets/img/vertical-horizontal-scaling.png)
+ 
+   
+   
 
 ## Vertical scaling
 
