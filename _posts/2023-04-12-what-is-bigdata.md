@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Big Data?"
-categories: "Big Data Fundamentals"
+categories: "big-data-fundamentals"
 ---
 
 
