@@ -1,4 +1,4 @@
 ---
-title: Guillaume Fetter's Pages
+title: Posts
 ---
 
