@@ -1,4 +1,4 @@
 ---
-Guillaume Fetter's Pages
+title: Guillaume Fetter's Pages
 ---
 
