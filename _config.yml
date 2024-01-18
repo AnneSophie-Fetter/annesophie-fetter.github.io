@@ -37,5 +37,7 @@ defaults:
       image: true
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+
+
+google_analytics:
