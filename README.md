@@ -1,3 +1,3 @@
-Repository for blog posts @ guillaume-fetter.github.io/pages
+Repository for blog posts @ annesophie-fetter.github.io/pages
 
 Source: https://github.com/skills/github-pages
